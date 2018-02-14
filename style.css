@@ -1,0 +1,40 @@
+*{
+	padding: 0;margin: 0;
+}
+html, body{
+	height: 100%;
+}
+.header{
+	height: 10%;
+	background: rgb(61, 245, 224);
+  text-align: center;
+}
+
+.bodys{
+	height: 85%;
+	background:rgb(179, 245, 244);
+	overflow-y: scroll;
+}
+	.main-bodys{
+    text-align: center;
+    width:400px;
+    height:200px;
+    padding:20px;
+    background:#45dac5;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -120px;
+    margin-left: -220px;
+	}
+th{
+ background-color:#8B8B8B;
+}
+td{
+ background-color:#BAFFF5;
+}
+.footer{
+	height: 5%;
+  text-align: center;
+  background: rgb(61, 245, 224);
+}
